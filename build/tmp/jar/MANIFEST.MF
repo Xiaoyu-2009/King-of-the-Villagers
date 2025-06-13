@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: kingvillager
+Specification-Vendor: softcat
+Specification-Version: 1
+Implementation-Title: KingVillager-master
+Implementation-Version: 1.6.3
+Implementation-Vendor: softcat
+Implementation-Timestamp: 2025-06-13T10:36:51+0800
+
