@@ -1,7 +1,7 @@
 # King-of-the-Villagers 移植项目  
 
 **重要声明**：  
-原代码仓库（Neldardhen/KingVillager ）**未明确开源协议**，此前错误添加的 GPL-3.0 协议已移除。  
+原代码仓库（Neldardhen/KingVillager ）**未明确开源协议**
 本移植仅作**学习交流用途**，若原作者主张版权或授权，将立即配合调整/下架。  
 
 **移植者**：Xiaoyu-2009  
