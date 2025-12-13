@@ -10,10 +10,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.trading.MerchantOffer;
 
-// Code from CAS_ual_TY found here : https://www.minecraftforge.net/forum/topic/79434-1144-villagers-professions-fix-trades/
-// Updated for 1.20.1 by Xiaoyu_2009
-
-public class RandomTradeBuilder
+公共 class RandomTradeBuilder
 {
     protected Function<RandomSource, ItemStack> price;
     protected Function<RandomSource, ItemStack> price2;
